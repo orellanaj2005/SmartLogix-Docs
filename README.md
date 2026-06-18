@@ -155,7 +155,7 @@ Guía detallada (variables, wallet, perfiles) en **[docs/configuracion-y-desplie
 | User-Service | https://github.com/orellanaj2005/User-Service |
 | Inventory-Service | https://github.com/orellanaj2005/Inventory-Service |
 | Order-Service | https://github.com/orellanaj2005/Order-Service |
-| Notification-Service | https://github.com/orellanaj2005/Shipping-Service |
+| Notification-Service | https://github.com/orellanaj2005/Inventory-Service
 | frontend_ms | https://github.com/prograshaco/frontend_ms |
 | SmartLogix-Docs (este repo) | https://github.com/orellanaj2005/SmartLogix-Docs |
 
