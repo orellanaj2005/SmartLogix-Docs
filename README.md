@@ -157,7 +157,7 @@ Guía detallada (variables, wallet, perfiles) en **[docs/configuracion-y-desplie
 | Order-Service | https://github.com/orellanaj2005/Order-Service |
 | Notification-Service | https://github.com/orellanaj2005/Shipping-Service |
 | frontend_ms | https://github.com/prograshaco/frontend_ms |
-| SmartLogix-Docs (este repo) | <!-- pega el enlace cuando configures el remoto --> |
+| SmartLogix-Docs (este repo) | https://github.com/orellanaj2005/SmartLogix-Docs |
 
 ## 📚 Documentación
 
